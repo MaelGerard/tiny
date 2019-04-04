@@ -1,0 +1,14 @@
+{
+	"name": "@maegerar/tiny",
+	"version": "1.0.0",
+	"description": "Remove all spaces from a string",
+	"licence": "MIT",
+	"repository": "maegerar/tiny",
+	"main": "index.js",
+	"keyword": [
+		"tiny",
+		"npm",
+		"package",
+		"maegerar"
+	]
+}

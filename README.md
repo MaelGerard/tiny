@@ -1,10 +1,10 @@
 # @maegerar/tiny
 Removes all spaces from a string.
 
-# Install
+## Install
 $ npm install @maegerar/tiny
 
-# Usage 
+## Usage 
 const tiny = require("@bamblehorse/tiny");
 
 tiny("So much space!");
